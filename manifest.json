@@ -1,0 +1,39 @@
+{
+  "name": "Muhammetşazada & Dünýagözel Wedding Invitation",
+  "short_name": "Wedding 2026",
+  "description": "Luxury interactive wedding invitation website",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fffdf7",
+  "theme_color": "#d4af37",
+
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+  "lang": "tk",
+
+  "categories": [
+    "wedding",
+    "invitation",
+    "event"
+  ],
+
+  "screenshots": [
+    {
+      "src": "assets/images/screenshot.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Premium Wedding Invitation Website
+
+User-agent: *
+
+Allow: /
+
+# Main pages
+Allow: /index.html
+
+# Assets
+Allow: /assets/
+
+
+# Sitemap location
+Sitemap: https://your-domain.com/sitemap.xml
